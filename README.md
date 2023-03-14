@@ -20,21 +20,21 @@
  github main branch에 폴더를 만들고 정답인 소스코드를 push합니다.
  
  **Commit Message**
- - 프로그래머스_문제번호 ID - Add 1st Solution
+ - Add 1st Solution
 
-   > Ex) Programmers_1874 hoonwin02 - Add 2nd Solution
+   > Ex) Add 2nd Solution
 
    - 문제의 n번째 솔루션 코드를 추가했을 때의 커밋 메시지 예시입니다.
    
- - 프로그래머스_문제번호 ID - Refactor 1st Solution
+ - Refactor 1st Solution
 
-   > Ex) Programmers_1874 hoonwin02 - Refactor 3rd Solution
+   > Ex) Refactor 3rd Solution
    
    - 문제의 n번째 솔루션 코드를 리팩토링했을 때의 커밋 메시지 예시입니다.
    
-- 프로그래머스_문제번호 ID - Fix 1st Solution
+- Fix 1st Solution
 
-   > Ex) Programmers_1874 hoonwin02 - Fix 4th Solution
+   > Ex) Fix 4th Solution
   
    - 문제의 n번째 솔루션 코드의 오류를 수정했을 때의 커밋 메시지 예시입니다.
 
