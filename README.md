@@ -40,10 +40,10 @@
 
 ## 진행 상황(예시)
 |  | 최승훈 | 정태현 |
-| :---: | :---: |
+| :---: | :---: | :---: |
 | GitHub | [cshooon](https://github.com/cshooon) | [sweetburble](https://github.com/sweetburble) |
 | Week 01</br> SELECT(기초) | |
-| Week 02</br> SUM, MAX, MIN | 3|
+| Week 02</br> SUM, MAX, MIN | |
 | Week 03</br> IS NULL |  |
 | Week 04</br> GROUP BY | |
 | Week 05</br> GROUP BY | |
