@@ -39,17 +39,17 @@
    - 문제의 n번째 솔루션 코드의 오류를 수정했을 때의 커밋 메시지 예시입니다.
 
 ## 진행 상황(예시)
-|  | 최승훈 | 
+|  | 최승훈 | 정태현 |
 | :---: | :---: |
-| GitHub | [cshooon](https://github.com/cshooon) |
-| Week 01</br> SELECT(기초) | ✅ |
-| Week 02</br> SUM, MAX, MIN | 3️⃣ |
-| Week 03</br> IS NULL | 4️⃣ |
-| Week 04</br> GROUP BY | ✅ |
-| Week 05</br> GROUP BY | ✅ |
-| Week 06</br> JOIN | ✅ |
-| Week 07</br> STRING, DATE | ✅ |  
-| Week 08</br> SELECT(중급) | ✅ |
+| GitHub | [cshooon](https://github.com/cshooon) | [sweetburble](https://github.com/sweetburble) |
+| Week 01</br> SELECT(기초) | |
+| Week 02</br> SUM, MAX, MIN | 3|
+| Week 03</br> IS NULL |  |
+| Week 04</br> GROUP BY | |
+| Week 05</br> GROUP BY | |
+| Week 06</br> JOIN |  |
+| Week 07</br> STRING, DATE |  |  
+| Week 08</br> SELECT(중급) | |
 
 | 업로드 횟수 | 표기 |
 | :---: | :---: |
